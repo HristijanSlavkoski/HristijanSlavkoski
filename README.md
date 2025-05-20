@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hristijan Slavkoski</h1>
 <h3 align="center">A Full Stack Developer, specializing in Java, Spring Boot, Backend Development, with hands-on experience in Frontend and IoT solutions</h3>
 
-I'm a Full Stack Developer with a strong background in backend systems, Java, and Spring Boot. I have experience integrating third-party services, working with various databases. I enjoy solving complex problems and building scalable, efficient systems. Currently, I'm working on the [ArkCase](https://www.arkcase.com/) case management system, enhancing features and resolving backend issues, with a strong focus on clean, maintainable code and agile team collaboration.
+I'm a Full Stack Developer with a strong background in backend systems, Java, and Spring Boot. I have experience integrating third-party services and working with various databases. I enjoy solving complex problems and building scalable, efficient systems. Currently, I'm working on the [ArkCase](https://www.arkcase.com/) case management system, enhancing features and resolving backend issues, with a strong focus on clean, maintainable code and agile team collaboration.
 
 <p align="left">
 </p>
